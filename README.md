@@ -1,8 +1,22 @@
-# React + Vite
+# DashBoard Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Create the project using - npm create vite@latest
+- Tailwind initilize in our project
+- Build 
+  - Home Page
+  - Header Page
+  - Dashboard Page
+- Initilize Routing in our Project
 
-Currently, two official plugins are available:
+# How to run Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Step 1 =>
+  - if you want to run the project in your local system to first clone the project using git clone command .
+
+- Step 2
+  - Start the React application using npm start.
+
+# Live link of the Project
+
+- if you want to see the project without any burden just click on the click
+  - https://accu-knox-dash-board-project.vercel.app/dashboard
