@@ -19,4 +19,4 @@
 # Live link of the Project
 
 - if you want to see the project without any burden just click on the click
-  - https://accu-knox-dash-board-project.vercel.app/dashboard
+  - accu-knox-dash-boar-git-c7d0ed-nirmal-pandeys-projects-2a3afa2a.vercel.app
