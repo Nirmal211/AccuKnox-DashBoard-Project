@@ -19,6 +19,5 @@
 # Live link of the Project
 
 - if you want to see the project without any burden just click on the click
-  - [DashBoard-Project-Link1](accu-knox-dash-boar-git-c7d0ed-nirmal-pandeys-projects-2a3afa2a.vercel.app)
-  - [DashBoard-Project-Link2](accu-knox-dash-board-project.vercel.app)
+  - [DashBoard-Project-Link2](https://accu-knox-dash-board-project-ndzwqnatg.vercel.app/)
 
