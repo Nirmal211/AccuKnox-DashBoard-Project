@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.homeTitle {
+    -webkit-text-stroke: 1px #000;
+}
